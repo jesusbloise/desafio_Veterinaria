@@ -10,5 +10,6 @@ Este proyecto es una aplicación de línea de comandos en Node.js para gestionar
 Para interactuar con el archivo index.js se deberán pasar argumentos por línea de comando
 especificando qué función se desea ejecutar, por ejemplo:
 
-node index.js registrar Benito "2 años" perro blanco vomitos
-node index.js leer
+* node index.js registrar Benito "2 años" perro blanco vomitos
+
+* node index.js leer
